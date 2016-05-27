@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'gillsans_reg';
+    src: url('fonts/gillsans_reg.eot');
+    src: url('fonts/gillsans_reg.eot') format('embedded-opentype'),
+         url('fonts/gillsans_reg.woff2') format('woff2'),
+         url('fonts/gillsans_reg.woff') format('woff'),
+         url('fonts/gillsans_reg.ttf') format('truetype'),
+         url('fonts/gillsans_reg.svg#gillsans_reg') format('svg');
+}

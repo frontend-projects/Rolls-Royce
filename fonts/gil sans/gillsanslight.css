@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'gillsanslight';
+    src: url('fonts/gillsanslight.eot');
+    src: url('fonts/gillsanslight.eot') format('embedded-opentype'),
+         url('fonts/gillsanslight.woff2') format('woff2'),
+         url('fonts/gillsanslight.woff') format('woff'),
+         url('fonts/gillsanslight.ttf') format('truetype'),
+         url('fonts/gillsanslight.svg#gillsanslight') format('svg');
+}
